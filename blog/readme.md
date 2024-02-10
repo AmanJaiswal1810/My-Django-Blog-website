@@ -1,0 +1,1 @@
+Hey guys, today I am very excited cause Today I shared my first ever project on github. The Title of my project is Aman's blogs. I created this website using Django purely.
